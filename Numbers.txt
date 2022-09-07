@@ -1,4 +1,5 @@
 1 devブランチで修正
+1 dev2で修正
 2 hoge
 3 hoge
 4 hoge
